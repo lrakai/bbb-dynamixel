@@ -2,7 +2,7 @@
 Python modules for controlling a dynamixel motor using a Beaglebone Black
 
 ## Purpose
-Illustrate how to use serial communication in python running on a Beaglebone Black to control a dynamixel servo.
+Illustrate how to use serial communication in python (2.x) running on a Beaglebone Black to control a dynamixel servo.
 This may be preferred by some over setting up the Dynamixel SDK and using the C language it supports.
 
 ## Hardware
