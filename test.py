@@ -95,3 +95,6 @@ def test():
 	# GPIO1_16 should be low again after transmitting
 	time.sleep(0.2)
 	ser.close()
+	
+if __name__ == '__main__':
+	test()
