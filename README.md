@@ -29,4 +29,4 @@ Beaglebone Black serial cape wiring:
 
 ## Test
 
-`python -c "import test; test.test()"`
+`python test`
